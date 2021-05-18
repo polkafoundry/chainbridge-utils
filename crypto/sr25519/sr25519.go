@@ -6,7 +6,7 @@ package sr25519
 import (
 	"crypto/rand"
 
-	"github.com/ChainSafe/chainbridge-utils/crypto"
+	"github.com/PolkaFoundry/chainbridge-utils/crypto"
 	"github.com/centrifuge/go-substrate-rpc-client/v3/signature"
 	"github.com/centrifuge/go-substrate-rpc-client/v3/types"
 	"github.com/ethereum/go-ethereum/common/hexutil"
