@@ -9,7 +9,7 @@ import (
 	"github.com/PolkaFoundry/chainbridge-utils/crypto"
 	"github.com/PolkaFoundry/chainbridge-utils/crypto/secp256k1"
 	"github.com/PolkaFoundry/chainbridge-utils/crypto/sr25519"
-	"github.com/centrifuge/go-substrate-rpc-client/v3/signature"
+	"github.com/PolkaFoundry/go-substrate-rpc-client/v3/signature"
 )
 
 // The Constant "keys". These are the name that the keys are based on. This can be expanded, but
